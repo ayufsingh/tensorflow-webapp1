@@ -1,0 +1,19 @@
+body {
+    font-family: helvetica, arial, sans-serif;
+    background: #000;
+    margin: 2em;
+    text-align: center;
+    color: antiquewhite;
+}
+
+.webname{
+    align-items:center ;
+}
+
+#webcam-container{
+    padding: 5px 5px;
+    background-color: rgb(0, 54, 54);
+}
+#label-container{
+    background-color: rgb(34, 0, 67);
+}
